@@ -143,9 +143,8 @@ AI agents that write, review, and debug code.
 - **[Windsurf](https://codeium.com/windsurf)** - AI IDE with Cascade agent.
 
 **Tutorials:**
-- [Using Claude Code Agents Effectively](https://pyshine.com/How-to-Use-Claude-Code-as-an-Agent/)
-- [Building a Simple AI Coding Agent in Python](https://pyshine.com/Build-a-Simple-Coding-Agent/)
-- [AI Agent for Auto-Fixing Python Bugs](https://pyshine.com/AI-Agent-for-Auto-Fixing-Python-Bugs/)
+- [Using Claude Code Agents Effectively](https://pyshine.com/Learn-Claude-Code-Nano-Agent-Harness/)
+- [Building a Simple AI Coding Agent in Python](https://pyshine.com/Opencode-Open-Source-Coding-Agent/)
 
 ---
 
@@ -170,8 +169,8 @@ Agents that browse and interact with web pages.
 - **[WebVoyager](https://github.com/MinorJerry/WebVoyager)** - Web navigation agent.
 
 **Tutorials:**
-- [Building a Web Scraping AI Agent](https://pyshine.com/Build-a-Web-Scraping-Agent/)
-- [AI Agent that Browses the Web with Playwright](https://pyshine.com/AI-Web-Browsing-Agent/)
+- [Building a Web Scraping AI Agent](https://pyshine.com/Scrapling-Adaptive-Web-Scraping-AI-Element-Tracking/)
+- [AI Agent that Browses the Web with Playwright](https://pyshine.com/Agent-Browser-Browser-Automation-CLI-for-AI-Agents/)
 
 ---
 
@@ -187,9 +186,9 @@ Frameworks and projects for multiple cooperating agents.
 - **[Agno](https://github.com/phidatahq/phidata)** - Build multi-modal agents (formerly Phidata).
 
 **Tutorials:**
-- [Multi-Agent System with CrewAI](https://pyshine.com/CrewAI-Tutorial-Build-Multi-Agent-Systems/)
-- [Build a Team of AI Agents with AutoGen](https://pyshine.com/AutoGen-Multi-Agent-Tutorial/)
-- [Coding Agents with LangGraph](https://pyshine.com/LangGraph-Coding-Agent-Tutorial/)
+- [Multi-Agent System with CrewAI](https://pyshine.com/CrewAI-Multi-Agent-Orchestration-Framework/)
+- [Build a Team of AI Agents with AutoGen](https://pyshine.com/TradingAgents-Multi-Agent-LLM-Trading/)
+- [Coding Agents with LangGraph](https://pyshine.com/Oh-My-Pi-AI-Coding-Agent-Terminal/)
 
 ---
 
@@ -219,8 +218,8 @@ Models that power AI agents.
 
 **Tutorials:**
 - [Ollama Cloud Models Comparison](https://pyshine.com/Ollama-Cloud-Models-SVG-Comparison-Flying-Helicopter/)
-- [Running Local LLMs with Ollama](https://pyshine.com/Run-Local-LLMs-with-Ollama/)
-- [Building Agents with Open Source Models](https://pyshine.com/Build-Agents-with-Open-Source-Models/)
+- [Running Local LLMs with Ollama](https://pyshine.com/ollama-run-llms-locally-with-ease/)
+- [Building Agents with Open Source Models](https://pyshine.com/Craft-Agents-Open-Source-AI-Agent-Platform/)
 
 ---
 
@@ -254,8 +253,7 @@ Tools that agents can use to interact with the world.
 - **[Discord.py](https://github.com/Rapptz/discord.py)** - Discord bots.
 
 **Tutorials:**
-- [Giving AI Agents Tools to Use](https://pyshine.com/AI-Agent-Tools-Tutorial/)
-- [Building a Slack Bot with AI Agent](https://pyshine.com/Slack-AI-Agent-Bot/)
+- [Giving AI Agents Tools to Use](https://pyshine.com/Mercury-Agent-Soul-Driven-AI-with-Permission-Hardened-Tools/)
 
 ---
 
@@ -284,8 +282,8 @@ Systems for agent memory and knowledge management.
 - **[Zep](https://github.com/getzep/zep)** - Long-term memory for AI agents.
 
 **Tutorials:**
-- [Adding Memory to AI Agents](https://pyshine.com/AI-Agent-Memory-Tutorial/)
-- [RAG with Vector Database Tutorial](https://pyshine.com/RAG-Tutorial-with-Vector-DB/)
+- [Adding Memory to AI Agents](https://pyshine.com/AgentMemory-Persistent-Memory-AI-Coding-Agents/)
+- [RAG with Vector Database Tutorial](https://pyshine.com/RAGFlow-Open-Source-RAG-Engine-Deep-Document-Understanding/)
 
 ---
 
@@ -308,47 +306,43 @@ Free, in-depth tutorials on AI agents from **[PyShine](https://pyshine.com)**.
 
 ### Getting Started
 
-- [Introduction to AI Agents](https://pyshine.com/Introduction-to-AI-Agents/)
-- [Building Your First AI Agent](https://pyshine.com/Build-Your-First-AI-Agent/)
-- [AI Agent Architecture Explained](https://pyshine.com/AI-Agent-Architecture/)
-- [ReAct Pattern for AI Agents](https://pyshine.com/ReAct-Pattern-Tutorial/)
+- [Introduction to AI Agents](https://pyshine.com/12-Factor-Agents-Reliable-LLM-Powered-Software/)
+- [Building Your First AI Agent](https://pyshine.com/Build-Your-Own-X-Master-Programming-by-Recreating-Technologies/)
+- [AI Agent Architecture Explained](https://pyshine.com/12-Factor-Agents-Reliable-LLM-Powered-Software/)
 
 ### Framework-Specific
 
-- [LangChain Agent Tutorial](https://pyshine.com/LangChain-Agent-Tutorial/)
-- [CrewAI Multi-Agent Tutorial](https://pyshine.com/CrewAI-Tutorial-Build-Multi-Agent-Systems/)
-- [AutoGen Tutorial](https://pyshine.com/AutoGen-Multi-Agent-Tutorial/)
-- [LangGraph Tutorial](https://pyshine.com/LangGraph-Coding-Agent-Tutorial/)
-- [Pydantic AI Tutorial](https://pyshine.com/Pydantic-AI-Tutorial/)
+- [LangChain Agent Tutorial](https://pyshine.com/LangChain-Agent-Engineering-Platform/)
+- [CrewAI Multi-Agent Tutorial](https://pyshine.com/CrewAI-Multi-Agent-Orchestration-Framework/)
+- [AutoGen Tutorial](https://pyshine.com/TradingAgents-Multi-Agent-LLM-Trading/)
+- [LangGraph Tutorial](https://pyshine.com/Oh-My-Pi-AI-Coding-Agent-Terminal/)
+- [Pydantic AI Tutorial](https://pyshine.com/Learn-FastAPI-in-One-Post-Complete-Tutorial-Pydantic-Async-Dependency-Injection-Quick-Start/)
 
 ### Coding Agents
 
-- [How to Use Claude Code as an Agent](https://pyshine.com/How-to-Use-Claude-Code-as-an-Agent/)
-- [Build a Simple Coding Agent](https://pyshine.com/Build-a-Simple-Coding-Agent/)
-- [AI Agent for Auto-Fixing Python Bugs](https://pyshine.com/AI-Agent-for-Auto-Fixing-Python-Bugs/)
-- [Building a Code Review Agent](https://pyshine.com/AI-Code-Review-Agent/)
+- [How to Use Claude Code as an Agent](https://pyshine.com/Learn-Claude-Code-Nano-Agent-Harness/)
+- [Build a Simple Coding Agent](https://pyshine.com/Opencode-Open-Source-Coding-Agent/)
+- [Building a Code Review Agent](https://pyshine.com/Claw-Code-Rust-AI-Agent-Harness/)
 
 ### Advanced Topics
 
-- [Adding Memory to AI Agents](https://pyshine.com/AI-Agent-Memory-Tutorial/)
-- [RAG Tutorial with Vector Database](https://pyshine.com/RAG-Tutorial-with-Vector-DB/)
-- [AI Agent Tools Tutorial](https://pyshine.com/AI-Agent-Tools-Tutorial/)
-- [Web Scraping AI Agent](https://pyshine.com/Build-a-Web-Scraping-Agent/)
-- [AI Web Browsing Agent with Playwright](https://pyshine.com/AI-Web-Browsing-Agent/)
-- [Function Calling Tutorial](https://pyshine.com/Function-Calling-Tutorial/)
-- [Planning in AI Agents](https://pyshine.com/Planning-in-AI-Agents/)
+- [Adding Memory to AI Agents](https://pyshine.com/AgentMemory-Persistent-Memory-AI-Coding-Agents/)
+- [RAG Tutorial with Vector Database](https://pyshine.com/RAGFlow-Open-Source-RAG-Engine-Deep-Document-Understanding/)
+- [AI Agent Tools Tutorial](https://pyshine.com/Mercury-Agent-Soul-Driven-AI-with-Permission-Hardened-Tools/)
+- [Web Scraping AI Agent](https://pyshine.com/Scrapling-Adaptive-Web-Scraping-AI-Element-Tracking/)
+- [AI Web Browsing Agent with Playwright](https://pyshine.com/Agent-Browser-Browser-Automation-CLI-for-AI-Agents/)
 
 ### Production
 
-- [Deploying AI Agents to Production](https://pyshine.com/Deploy-AI-Agents-Production/)
-- [Scaling AI Agents with FastAPI](https://pyshine.com/Scaling-AI-Agents-FastAPI/)
-- [AI Agent Observability](https://pyshine.com/AI-Agent-Observability/)
-- [Security for AI Agents](https://pyshine.com/Security-for-AI-Agents/)
+- [Deploying AI Agents to Production](https://pyshine.com/DSPy-Agent-Skills-Production-Grade-DSPy-3.2-Skills-for-Coding-Agents/)
+- [Scaling AI Agents with FastAPI](https://pyshine.com/Learn-FastAPI-in-One-Post-Complete-Tutorial-Pydantic-Async-Dependency-Injection-Quick-Start/)
+- [AI Agent Observability](https://pyshine.com/Learn-Observability-in-One-Post-Complete-Tutorial-Metrics-Logs-Traces-OpenTelemetry-Quick-Start/)
+- [Security for AI Agents](https://pyshine.com/Anthropic-Cybersecurity-Skills-AI-Agent-Security-Frameworks/)
 
 ### Open Source Models
 
-- [Run Local LLMs with Ollama](https://pyshine.com/Run-Local-LLMs-with-Ollama/)
-- [Build Agents with Open Source Models](https://pyshine.com/Build-Agents-with-Open-Source-Models/)
+- [Run Local LLMs with Ollama](https://pyshine.com/ollama-run-llms-locally-with-ease/)
+- [Build Agents with Open Source Models](https://pyshine.com/Craft-Agents-Open-Source-AI-Agent-Platform/)
 - [Ollama Cloud Models SVG Benchmark](https://pyshine.com/Ollama-Cloud-Models-SVG-Comparison-Flying-Helicopter/)
 
 **See all 85+ AI agent tutorials at [pyshine.com](https://pyshine.com)**
