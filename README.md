@@ -227,6 +227,10 @@ Models that power AI agents.
 
 Tools that agents can use to interact with the world.
 
+### Payments
+
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
+
 ### Search
 
 - **[Tavily](https://tavily.com/)** - AI search API built for agents.
